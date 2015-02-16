@@ -1,7 +1,6 @@
 __author__ = 'Sam'
+from helper import greeting
 
-print("hello")
+greeting("hello")
 
-def greeting(msg):
-    print(msg)
 
